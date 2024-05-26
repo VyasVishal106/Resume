@@ -353,6 +353,7 @@ a{
     /* border: 1px solid black; */
     padding: 5%;
     display: flex;
+    font-size: 3vw;
     flex-direction: column;
     justify-content: center;
     align-items: center;
