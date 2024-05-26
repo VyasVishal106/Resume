@@ -46,7 +46,6 @@ header{
     border: 1px solid rgb(215, 75, 75);
     background-color: #ffcccb;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-/*     font-size: 1vw; */
 }
 
 .Title{
@@ -73,7 +72,8 @@ a{
     background-color: #f9f9f9;
     border: 1px solid #ccc;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    
+    font-size: 1vw;
+    font-weight: 500;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -1083,6 +1083,7 @@ body, html {
     /* overflow: hidden; */
     position: relative;
 }
+
 
 
 
