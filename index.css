@@ -1009,6 +1009,15 @@ body, html {
     text-align: center;
 }
 
+
+  /* Add any additional styling or animation effects here */
+  .S-Icon_{
+    width: 100%;
+    overflow: hidden;
+    /* border: 1px solid black; */
+
+}
+
 .S-All{
     display: flex;
     /* justify-content: ; */
