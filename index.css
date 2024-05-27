@@ -330,8 +330,8 @@ footer {
     /* display: flex; */
     justify-content: center;
     align-items: center;
-    font-size: 2vw;
     height: 25.5%;
+    font-size: 2vw;
     border: 1px solid rgb(215, 75, 75);
     background-color: #e6f7ff;
     color: #333;
@@ -343,6 +343,7 @@ a{
 }
 
 .mobile-link .LinkBox {
+    font-size: 7vw;
     margin: 0% 0%;
     transition: all .3s;
     background-color: #f9f9f9;
